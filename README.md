@@ -1,0 +1,2 @@
+# kickit
+Foosball counter
